@@ -1,2 +1,0 @@
----- 10000 Matches (1 in 1 files) ----
-Mycurl.cpp (curl\src):	char *jsonstr_1 = "\",\r\n\t\"controller_version\":10000\r\n}\r\n";
