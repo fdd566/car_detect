@@ -1,0 +1,4 @@
+---- UTF8toUnicode Matches (3 in 3 files) ----
+Utf8_gb2312.cpp:            UTF8toUnicode(tmp, byteCount, unicode, &unicodeCount);
+Utf8_unicode.cpp:int UTF8toUnicode(const char* strTempUTF8, int utf8Len, int wUnicode[], int* unicodeSize)
+Utf8_unicode.h:int UTF8toUnicode(const char* strUTF8, int utf8Len, int unicode[], int* unicodeCount);
